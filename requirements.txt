@@ -1,0 +1,13 @@
+Flask==0.11.1
+Flask-Jsonpify==1.5.0
+Flask-Script==2.0.5
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.11.10
+click==6.6
+funcsigs==1.0.2
+itsdangerous==0.24
+pbr==1.10.0
+requests==2.10.0
+six==1.10.0
+wsgiref==0.1.2
