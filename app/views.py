@@ -1,5 +1,3 @@
-from flask_jsonpify import jsonify
-
 from app import flask_app
 from api_clients.api_one import ApiOne
 from utils.async_external_data_loader import AsyncExternalDataLoader
